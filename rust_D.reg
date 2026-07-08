@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Environment]
+"RUSTUP_HOME"="D:\\RustEnv\\.rustup"
+"CARGO_HOME"="D:\\RustEnv\\.cargo"
+"RUSTUP_DIST_SERVER"="https://mirrors.ustc.edu.cn/rust-static"
+"RUSTUP_UPDATE_ROOT"="https://mirrors.ustc.edu.cn/rust-static/rustup"
